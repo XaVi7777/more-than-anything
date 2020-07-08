@@ -128,10 +128,7 @@ https://github.com/negomi-e/altai
 
 ![Сообщество](community.png)
 
-  ____
-  
 
-![Личный кабинет организации](orglk.png)
 
 ## EasyParking - SSR приложение отслеживания ближайших парковок.
 
